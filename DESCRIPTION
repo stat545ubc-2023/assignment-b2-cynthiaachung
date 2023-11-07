@@ -1,6 +1,6 @@
 Package: countmissing
 Title: Count Missing Values for All Columns by Group
-Version: 0.0.0.9000
+Version:  0.1.0
 Authors@R: 
     person("Cynthia", "Chung", , "first.last@example.com", role = c("aut", "cre"))
 Description: Given a data frame "data" and a column "group", "count_all_missing_by_group()" 
