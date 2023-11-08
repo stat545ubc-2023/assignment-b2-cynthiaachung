@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# countmissing
+# countsallmissing
 
 <!-- badges: start -->
 <!-- badges: end -->
