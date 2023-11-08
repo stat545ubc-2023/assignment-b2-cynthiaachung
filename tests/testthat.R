@@ -9,4 +9,4 @@
 library(testthat)
 library(countmissing)
 
-test_check("countmissing")
+test_check("countsallmissing")

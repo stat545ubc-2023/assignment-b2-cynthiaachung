@@ -6,10 +6,10 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of countmissing is to create a new data frame that summarizes
-the number of missing values for all columns in a given data set “data”
-per level of column “group”. This provides a high level overview of the
-data set.
+The goal of countsallmissing is to create a new data frame that
+summarizes the number of missing values for all columns in a given data
+set “data” per level of column “group”. This provides a high level
+overview of the data set.
 
 ## Installation
 

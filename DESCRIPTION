@@ -1,4 +1,4 @@
-Package: countmissing
+Package: countsallmissing
 Title: Count Missing Values for All Columns by Group
 Version:  0.1.0
 Authors@R: 
