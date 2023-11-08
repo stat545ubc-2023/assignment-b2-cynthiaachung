@@ -26,7 +26,7 @@ This example computes the number of missing values in the `airquality`
 dataset grouped by the `cyl` column.
 
 ``` r
-library(countmissing)
+library(countsallmissing)
 count_all_missing_by_group(airquality, Month)
 #> # A tibble: 5 × 6
 #>   Month Ozone Solar.R  Wind  Temp   Day

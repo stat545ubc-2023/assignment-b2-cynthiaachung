@@ -34,7 +34,7 @@ devtools::install_github("https://github.com/stat545ubc-2023/countsallmissing", 
 This example computes the number of missing values in the `airquality` dataset grouped by the `cyl` column.
 
 ```{r example1}
-library(countmissing)
+library(countsallmissing)
 count_all_missing_by_group(airquality, Month)
 ```
 
