@@ -17,7 +17,7 @@ You can install the development version of countmissing like so:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("https://github.com/stat545ubc-2023/countsallmissing", ref = "0.1.0")
+devtools::install_github("stat545ubc-2023/countsallmissing", ref = "0.1.0")
 ```
 
 ## Usage
